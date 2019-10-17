@@ -1,0 +1,39 @@
+{
+  "name": "cac_website",
+  "version": "1.0.0",
+  "description": "Calvary Arrows Website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/5ran6/cac_website.git"
+  },
+  "keywords": [
+    "cac",
+    "website",
+    "livingseed",
+    "discipleship",
+    "arrows",
+    "cacaf",
+    "gboko",
+    "peace house",
+    "ph",
+    "gbile",
+    "akaani",
+    "house",
+    "calvary",
+    "arrows",
+    "college"
+  ],
+  "author": "Ocholi Francis",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/5ran6/cac_website/issues"
+  },
+  "homepage": "https://github.com/5ran6/cac_website#readme",
+  "dependencies": {
+    "jshint": "^2.10.2"
+  }
+}
