@@ -34,7 +34,7 @@
   },
   "homepage": "https://github.com/5ran6/cac_website#readme",
   "dependencies": {
-    "jshint": "^2.10.2"
+    "jshint": "^2.13.6"
   },
   "directories": {
     "lib": "lib"
